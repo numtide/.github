@@ -1,3 +1,3 @@
 # Getting support
 
-Commercial support is available on https://numtide.com/
+Commercial support is available at https://numtide.com/
