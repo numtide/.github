@@ -15,11 +15,7 @@ b. Try to leave the code in a better state than you left it. This includes
    Keep the CI green, and push follow-up PRs if your work broke something. Run
    `nix fmt` to format the repo.
 
-c. We share a common joy for building things. We ask everybody that's
-   contributing to try and look past our differences and identities. Try not
-   to rub your identity into other people's faces.
-
-d. Oh, and you probably want to install [Nix](https://nixos.org) because we
+c. Oh, and you probably want to install [Nix](https://nixos.org) because we
    use it everywhere.
 
 That's it. If you have any questions ping us on Matrix, Twitter, ...
