@@ -1,8 +1,7 @@
-We share a common joy for building things.
+At Numtide, we share a common joy for building things.
 
-We ask everybody that's contributing to try and look past our differences and
-identities. I know it's a sensible topic but in all the chaos out there, we
-try to put that aside for a moment. Try to be forgiving and apply charitable
-interpretations.
+We ask everybody that's contributing to our projects to look past our differences and identities.
 
-What matters is that we have a good time together, and get things done.
+Identities are a sensitive topic. To aviod conflicts imminent to all the world's chaos, we put identities aside while respecting them. We try to be forgiving and assume that any person is acting for the common well-being and with a good will.
+
+What matters for us is having a good time together and getting things done.
