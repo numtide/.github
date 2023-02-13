@@ -1,6 +1,7 @@
-Thanks for your interest in our projects. We follow an accepting team spirit, therefore we try to keep things simple and low friction.
+Thanks for your interest in our projects, and especially for considering becoming a contributor.
 
-If you're looking to contribute, please make yourself aware of our contributing principles. Here are some high-level hints that describe how we work:
+
+We try to keep things simple and low friction, so we ask contributors to follow certain principles. Here are some high level hints that describe how we work.
 
 a. Before tackling big issues, open an issue or discussion. It's always a shame when good work goes to waste because developers haven't agreed on the design in advance. A "big" issue is any issue that you wouldn't classify as obvious, or that has a potential for a wiggle room in terms of design. Issues that aren't considered big are typos, documentation and bug fixes.
 
