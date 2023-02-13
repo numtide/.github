@@ -1,7 +1,9 @@
 At Numtide, we share a common joy for building things.
 
-We ask everybody that's contributing to our projects to look past our differences and identities.
+We ask everybody that's contributing to our projects to share this spirit, and to put ego, identities and politics aside. There is already enough conflict out there. 
 
-Identities are a sensitive topic. To aviod conflicts imminent to all the world's chaos, we put identities aside while respecting them. We try to be forgiving and assume that any person is acting for the common well-being and with a good will.
+We encourage you to:
+* Enrich the conversation with wider perspectives when arguing on technical differences
+* Try to be forgiving and assume that that the other person is acting in good faith.
 
-What matters for us is having a good time together and getting things done.
+What matters to us is having a good time together and getting things done. We make the world a tiny bit better by building things that are useful to others.
