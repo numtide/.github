@@ -1,21 +1,15 @@
-Thanks for your interest in our little project. And even looking to contribute
-to it!
+Thanks for your interest in our projects, and especially for considering becoming a contributor.
 
-Generally we try to keep things simple and low friction. Here are some
-high-level pointers that show you how we work:
 
-a. Open an issue or discussion before tackling big items. It's always a shame
-   when good work goes to waste because we didn't agree on the design. "Big"
-   is a bit subjective. Anything that you wouldn't classify as obvious or that
-   has some potentially wiggle room in the design. Not included are typos,
-   documentation and bug fixes.
+We try to keep things simple and low friction, so we ask contributors to follow certain principles. Here are some high level hints that describe how we work.
 
-b. Try to leave the code in a better state than you left it. This includes
-   things like adding test coverage, at minimum for the new feature you added.
-   Keep the CI green, and push follow-up PRs if your work broke something. Run
-   `nix fmt` to format the repo.
+a. Before tackling big issues, open an issue or discussion. It's always a shame when good work goes to waste because developers haven't agreed on the design in advance. A "big" issue is any issue that you wouldn't classify as obvious, or that has a potential for a wiggle room in terms of design. Issues that aren't considered big are typos, documentation and bug fixes.
 
-c. Oh, and you probably want to install [Nix](https://nixos.org) because we
-   use it everywhere.
+b. Try to leave the code in a better state than you found it:
+   * Add test coverage, at minimum for the new feature you added.
+   * Keep the CI green, and if your work broke something, push follow-up PRs. 
+   * Run `nix fmt` to format the repo.
 
-That's it. If you have any questions ping us on Matrix, Twitter, ...
+c. You probably want to install [Nix](https://nixos.org) because we use it everywhere. :)
+
+If you have any questions, ping us on Matrix or [Twitter](https://twitter.com/numtide).
